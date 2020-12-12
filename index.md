@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Rebeca D. Coelho
 
 You can use the [editor on GitHub](https://github.com/durso0101/rebecadurso.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
