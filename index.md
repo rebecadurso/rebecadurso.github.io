@@ -1,6 +1,10 @@
 ## Rebeca D. Coelho
 
-You can use the [editor on GitHub](https://github.com/durso0101/rebecadurso.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Geographer, MSc. in Physical Geography at the University of São Paulo (USP) and Student Researcher of the New Talent Program of the Institute of Technological Research (IPT). Has interests in Landslides, Geohazards, Geomorphology, and GIS.
+
+[Researchgate](https://www.researchgate.net/profile/Rebeca_Coelho2), [Linkedin] (https://www.linkedin.com/in/rebeca-dur%C3%A7o-coelho-35b699159/), [Twitter] (https://twitter.com/RebecaDurso)
+
+to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
