@@ -3,9 +3,9 @@
 Geographer, MSc. in Physical Geography at the University of São Paulo (USP) and Student Researcher of the New Talent Program of the Institute of Technological Research (IPT). Has interests in Landslides, Geohazards, Geomorphology, and GIS.
 
 ## [Researchgate](https://www.researchgate.net/profile/Rebeca_Coelho2)
-## [Linkedin](hhttps://www.linkedin.com/in/rebeca-dur%C3%A7o-coelho-35b699159)
-## [Twitter]( hhttps://www.twitter.com/RebecaDurso)
-## [Instagram](https://instagram.com/rebecadurso)
+## [LinkedIn](https://www.linkedin.com/in/rebeca-dur%C3%A7o-coelho-35b699159)
+## [Twitter](https://www.twitter.com/RebecaDurso)
+## [Instagram](https://instagram.com/rebeca.durso)
 
 to maintain and preview the content for your website in Markdown files.
 
