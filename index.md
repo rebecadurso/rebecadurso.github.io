@@ -1,13 +1,14 @@
 ## Rebeca D. Coelho
+Landslides| Geohazards| Geomorphology| GIS
 
-Geographer, MSc. in Physical Geography at the University of São Paulo (USP) and Student Researcher of the New Talent Program of the Institute of Technological Research (IPT). Has interests in Landslides, Geohazards, Geomorphology, and GIS.
+Geographer, MSc. in Physical Geography at the University of São Paulo (USP) and Student Researcher of the New Talent Program of the Institute of Technological Research (IPT). 
 
 ## [Researchgate](https://www.researchgate.net/profile/Rebeca_Coelho2)
 ## [LinkedIn](https://www.linkedin.com/in/rebeca-dur%C3%A7o-coelho-35b699159)
 ## [Twitter](https://www.twitter.com/RebecaDurso)
 ## [Instagram](https://instagram.com/rebeca.durso)
 
-to maintain and preview the content for your website in Markdown files.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -35,10 +36,16 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Publications
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/durso0101/rebecadurso.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contacts
+
+Email: rebeca.durso@gmail.com or rebeca.coelho@usp.br
+
+[Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=H17um_wAAAAJ)
+[Lattes Curriculum](http://lattes.cnpq.br/6253625584264789)
+[Web of Science](https://publons.com/researcher/3131939/rebeca-durco-coelho)
+[ORCID](
+
