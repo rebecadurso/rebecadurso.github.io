@@ -26,7 +26,7 @@ Geographer, MSc. in Physical Geography at the University of São Paulo (USP) and
 
 **Email:** [rebeca.durso@gmail.com](mailto:rebeca.durso@gmail.com)   or  [rebeca.coelho@alumni.usp.br](mailto:rebeca.coelho@usp.br)
 #### [Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=H17um_wAAAAJ)
-#### [Lattes Curriculum (Oficial Brazilian CV)](https://lattes.cnpq.br/6253625584264789)
+#### [Lattes Curriculum (Oficial Brazilian CV)](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4324962P9)
 #### [Web of Science](https://publons.com/researcher/3131939/rebeca-durco-coelho)
 
 
