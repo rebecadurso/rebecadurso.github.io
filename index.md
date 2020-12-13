@@ -18,7 +18,7 @@ Geographer, MSc. in Physical Geography at the University of São Paulo (USP) and
 ### <p align="center">Publications </p> 
 
 
--[COELHO, R. D.; VIEIRA, B. C. ; GOMES, M. C. V. ; MARTINS, T. D. . Distribuição Granulométrica dos Solos e o Desenvolvimento dos Escorregamentos Rasos na Serra do Mar (SP). In: XVII Simpósio Brasileiro de Geografia Física Aplicada.. In: PEREZ FILHO,A; AMORIM,R.R.. (Org.). XVII Simpósio Brasileiro de Geografia Física Aplicada / I Congresso Nacional de Geografia Física. Campinas. 1ed.Campinas: UNICAMP, 2017, v. 1, p. 4119-4128](https://ocs.ige.unicamp.br/ojs/sbgfa/article/view/2565)
+- [COELHO, R. D.; VIEIRA, B. C. ; GOMES, M. C. V. ; MARTINS, T. D. . Distribuição Granulométrica dos Solos e o Desenvolvimento dos Escorregamentos Rasos na Serra do Mar (SP). In: XVII Simpósio Brasileiro de Geografia Física Aplicada.. In: PEREZ FILHO,A; AMORIM,R.R.. (Org.). XVII Simpósio Brasileiro de Geografia Física Aplicada / I Congresso Nacional de Geografia Física. Campinas. 1ed.Campinas: UNICAMP, 2017, v. 1, p. 4119-4128](https://ocs.ige.unicamp.br/ojs/sbgfa/article/view/2565)
 -
 -
 
