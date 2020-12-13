@@ -3,7 +3,7 @@
    
 
 
-<p align="center"> Landslides| Geohazards| Geomorphology| GIS| Multiscale Analylisis </p> 
+<p align="center"> Landslides| Geohazards| Geomorphology| GIS| Multiscale Analysis </p> 
 
 
 > ## About me
