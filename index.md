@@ -20,10 +20,13 @@ Geographer, MSc. in Physical Geography at the University of São Paulo (USP) and
 
 ## Find me
 
-| [Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=H17um_wAAAAJ)  | [Web of Science](https://publons.com/researcher/3131939/rebeca-durco-coelho)  |   
-| [Researchgate](https://www.researchgate.net/profile/Rebeca_Coelho2)                   | [Lattes (Official Brazilian CV)](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4324962P9) |
+| [Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=H17um_wAAAAJ)  	|  [Web of Science](https://publons.com/researcher/3131939/rebeca-durco-coelho) 	|  [Researchgate](https://www.researchgate.net/profile/Rebeca_Coelho2)  	|   	   	
+|---	|---	|---	|
+| [Lattes (Official Brazilian CV)](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4324962P9)   	|   [LinkedIn](https://www.linkedin.com/in/rebeca-dur%C3%A7o-coelho-35b699159)  	| [Twitter](https://www.twitter.com/RebecaDurso)   	| 
+|   	|   	|   	|
 
-| [LinkedIn](https://www.linkedin.com/in/rebeca-dur%C3%A7o-coelho-35b699159)  | [Twitter](https://www.twitter.com/RebecaDurso)  |
+
+
 
 > ## Contact information
 
