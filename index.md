@@ -34,10 +34,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Publications
-
 
 
 ### Contacts
@@ -47,5 +44,5 @@ Email: rebeca.durso@gmail.com or rebeca.coelho@usp.br
 [Google Scholar](https://scholar.google.com.br/citations?hl=pt-BR&user=H17um_wAAAAJ)
 [Lattes Curriculum](http://lattes.cnpq.br/6253625584264789)
 [Web of Science](https://publons.com/researcher/3131939/rebeca-durco-coelho)
-[ORCID](
+
 
