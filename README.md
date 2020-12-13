@@ -1,4 +1,3 @@
-# rebecadurso.github.io
-Hello everyone!
+# Hello everyone!
 
 This is my personal homepage. 
